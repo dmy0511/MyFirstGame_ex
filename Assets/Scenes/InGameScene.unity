@@ -1607,6 +1607,14 @@ PrefabInstance:
       propertyPath: m_SortingLayerID
       value: -651902981
       objectReference: {fileID: 0}
+    - target: {fileID: 3385687303421134483, guid: f2286e9ac8e371f49b9a8751b8f6b30a, type: 3}
+      propertyPath: archer
+      value: 
+      objectReference: {fileID: 1809929705}
+    - target: {fileID: 3385687303421134483, guid: f2286e9ac8e371f49b9a8751b8f6b30a, type: 3}
+      propertyPath: warrior
+      value: 
+      objectReference: {fileID: 958869082}
     - target: {fileID: 3385687303421134495, guid: f2286e9ac8e371f49b9a8751b8f6b30a, type: 3}
       propertyPath: m_Name
       value: Arrow
